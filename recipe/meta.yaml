@@ -26,7 +26,7 @@ requirements:
     - python >={{ python_min }}
     - click
     - fsspec
-    - pyaml
+    - pyyaml
     - tabulate
     - xarray
 
