@@ -1,5 +1,5 @@
 {% set name = "xrlint" %}
-{% set version = "0.3.0" %}
+{% set version = "0.4.0" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/bcdev/xrlint/archive/v{{ version }}.tar.gz
-  sha256: 0bd88a23a894b01e0877d7953c0c9131dea2fa49d0dba03b60d0c6c3a982723a
+  sha256: d5a8aebead76b151d1576860a503194105a0b09f6ced4ae3663e00c447af2fec
 
 build:
   entry_points:
