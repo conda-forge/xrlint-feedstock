@@ -50,8 +50,9 @@ about:
 
 extra:
   recipe-maintainers:
-    - forman
     - b-yogesh
-    - TejasMorbagal
-    - pont-us
+    - clarasb
+    - forman
     - konstntokas
+    - pont-us
+    - TejasMorbagal
